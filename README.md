@@ -1,1 +1,137 @@
-# enhansome-affective-computing
+<h1 align=center> Awesome Affective Computing </h1>
+
+<div align="center">
+	<img src="awesome-affective-computing.png" alt="Awesome Affective Computing">
+</div>
+
+<p align="center">
+	<a href="https://github.com/AmrMKayid/awesome-affective-computing/">
+		<img alt="A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources" src="https://img.shields.io/badge/Artificial%20Intelligence-Affective%20Computing-blue.svg">
+	</a>
+	<a href="https://github.com/sindresorhus/awesome">
+		<img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+	</a>
+	<a href="https://github.com/AmrMKayid/awesome-affective-computing/stargazers">
+	    <img alt="A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources" src="https://img.shields.io/github/stars/AmrMKayid/awesome-affective-computing.svg">
+  	</a>
+	<a href="https://github.com/AmrMKayid/awesome-affective-computing/network">
+	    <img alt="A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources" src="https://img.shields.io/github/forks/AmrMKayid/awesome-affective-computing.svg">
+  	</a>
+	<a href="https://twitter.com/intent/tweet?text=Awesome%20Affective%20Computing%20-%20A%20curated%20list%20of%20awesome%20affective%20computing%20papers,%20software,%20and%20resources%20by%20@AmrMKayid&url=https://github.com/AmrMKayid/awesome-affective-computing&hashtags=affective_computing,emotion_recognition,emotionalintelligence,artificialintelligence,deeplearning">
+		<img alt="tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social">
+	</a>
+</p>
+
+# Contents
+
+* [Papers](#papers)
+  * [General](#general) | [Facial](#facial) | [Voice](#voice) | [Behavioral](#behavioral)
+* [Software](#software)
+* [Courses](#courses)
+* [Books](#books)
+  * [Related](#related)
+    * [Affective Science](#affective-science)
+    * [Video-games](#video-games)
+* [Open-Source Projects](#projects)
+
+# Awesome Papers with stars
+
+## General
+
+* [Affective Computing](https://affect.media.mit.edu/pdfs/95.picard.pdf)
+* [Theories, Methods and Current Research on Emotions](https://irenelopatovska.files.wordpress.com/2012/10/lopatovska_arapakis_2011_theories.pdf)
+* [Analysis of emotion recognition using facial expressions, speech and multimodal information](https://dl.acm.org/citation.cfm?id=1027968)
+* [An Emotion Recognition System for Mobile Applications](https://ieeexplore.ieee.org/document/7862118/)
+
+## Facial
+
+* [A comprehensive study on Facial Expressions Recognition Techniques](https://ieeexplore.ieee.org/document/7508167/)
+* [Recognizing Facial Expressions Using Deep Learning](http://cs231n.stanford.edu/reports/2017/pdfs/224.pdf)
+* [Deep learning for facial expression recognition: A step closer to a smartphone that knows your moods](https://ieeexplore.ieee.org/document/7889290/)
+* [Deep learning for real-time robust facial expression recognition on a smartphone](https://ieeexplore.ieee.org/abstract/document/6776135/)
+* [Automatic Facial Feature Extraction and Expression Recognition based on Neural Network](https://arxiv.org/pdf/1204.2073.pdf)
+* [Automatic facial expression recognition based on a deep convolutional-neural-network structure](https://ieeexplore.ieee.org/abstract/document/7965717/)
+* [AU-aware Deep Networks For Facial Expression Recognition](http://www.jdl.ac.cn/doc/2011/20141317351319923_2013_fg_myliu_au-aware%20deep%20networks%20for%20facial%20expression%20recognition.pdf)
+* [An Emotion Recognition Model Based on Facial Recognition in Virtual Learning Environment](https://ac.els-cdn.com/S1877050917327679/1-s2.0-S1877050917327679-main.pdf?_tid=dfa912d0-4d1d-46c9-8047-e704fa20031d\&acdnat=1530789316_10496a5c00e6542ade37b5d1362acdda)
+* [A Brief Review of Facial Emotion Recognition Based on Visual Information](http://www.mdpi.com/1424-8220/18/2/401)
+* [Facial Expression Recognition via a Boosted Deep Belief Network](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Liu_Facial_Expression_Recognition_2014_CVPR_paper.pdf)
+* [Image based Static Facial Expression Recognition with Multiple Deep Network Learning](https://dl.acm.org/citation.cfm?id=2830595)
+* [Facial Expression Emotion Detection for Real-Time Embedded Systems](http://www.mdpi.com/2227-7080/6/1/17/)
+* [Facial emotion recognition in continuous video](https://www.researchgate.net/publication/259891535_Facial_emotion_recognition_in_continuous_video)
+* [An Efficient Method to Face and Emotion Detection](https://ieeexplore.ieee.org/document/7279967/)
+* [A Novel Feature Extraction Technique for Facial Expression
+  Recognition](https://pdfs.semanticscholar.org/d6c7/092111a8619ed7a6b01b00c5f75949f137bf.pdf)
+* [Emotion Recognition from Arbitrary View Facial Images](http://www.cis.pku.edu.cn/faculty/vision/zlin/Publications/2010-ECCV-Emotion.pdf)
+
+## Voice
+
+* [EmoVoice — A framework for online recognition of emotions from voice](https://www.informatik.uni-augsburg.de/lehrstuehle/hcm/publications/2008-PIT-Vogt/Vogtetal-PIT08.pdf)
+* [EmoVoice: a System to Generate Emotions in Speech](https://www.researchgate.net/publication/221478213_Emovoice_a_system_to_generate_emotions_in_speech)
+* [Speech Emotion Recognition](https://pdfs.semanticscholar.org/8b09/af0774f1d5985fb86cdda4ad33c58608a1e6.pdf)
+* [Speech Emotion Recognition Using Support Vector Machine](http://www.earticle.net/Article.aspx?sn=204547)
+* [Speech emotion recognition using hidden Markov models](https://www.sciencedirect.com/science/article/pii/S0167639303000992)
+* [Emotion Recognition From Speech With Recurrent Neural Networks](https://arxiv.org/abs/1701.08071)
+* [Speech Emotion Recognition Using Deep Neural Network and Extreme Learning Machine](https://www.microsoft.com/en-us/research/publication/speech-emotion-recognition-using-deep-neural-network-and-extreme-learning-machine/)
+* [Deep learning for robust feature generation in audiovisual emotion recognition](https://ieeexplore.ieee.org/document/6638346)
+
+## Behavioral
+
+* [Three-Dimensional, Kinematic, Human Behavioral Pattern-Based Features for Multimodal Emotion Recognition](http://www.mdpi.com/2414-4088/1/3/19)
+
+# Software
+
+* [Affectiva](https://www.affectiva.com/) - Affectiva develop software to recognize human emotions based on facial cues.
+* [Emotient](https://imotions.com/emotient/) - Emotient Facial Expression Analysis Engine
+* [EmoVu](http://www.eyeris.ai/) - EmoVu is a deep learning-based emotion recognition that reads facial micro-expressions in real-time
+* [Nviso](http://www.nviso.ch/technology.html) - NVISO detect and predict human behaviours using Visual Intelligence.
+* [Kairos](https://www.kairos.com/) - Serve Businesses with Face Recognition
+* [Cognitive-Emotion-Python](https://github.com/Microsoft/Cognitive-Emotion-Python) ⚠️ Archived, Python SDK for the Microsoft Emotion API, part of Cognitive Services
+
+# Courses
+
+* [MIT - Affective Computing](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-630-affective-computing-fall-2015/)
+* [Knowledge-Based AI: Cognitive Systems](https://eg.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409)
+* [Computer Vision Nanodegree](https://in.udacity.com/course/computer-vision-nanodegree--nd891)
+* [Coursera - Affective computing](https://www.coursera.org/lecture/emotions/affective-computing-gebqS)
+
+# Books
+
+* [Affective Computing](https://mitpress.mit.edu/books/affective-computing)
+* [Heart of the Machine: Our Future in a World of Artificial Emotional Intelligence](https://www.amazon.com/Heart-Machine-Artificial-Emotional-Intelligence/dp/1628727330)
+* [The Oxford Handbook of Affective Computing](https://www.amazon.com/Handbook-Affective-Computing-Library-Psychology/dp/0199942234)
+* [Affective Computing and Sentiment Analysis](https://www.springer.com/gp/book/9789400717565)
+* [A Blueprint for Affective Computing: A Sourcebook and Manual](https://global.oup.com/academic/product/a-blueprint-for-affective-computing-9780199566709?cc=us\&lang=en&)
+* [Emotion and Reason in Consumer Behavior](https://www.routledge.com/Emotion-and-Reason-in-Consumer-Behavior-1st-Edition/Chaudhuri/p/book/9780750679763)
+
+## Related
+
+### Affective Science
+
+* [The Nature of Emotion: Fundamental Questions](https://global.oup.com/academic/product/the-nature-of-emotion-9780190612573?cc=us\&lang=en&)
+* [Oxford Companion to Emotion and the Affective Sciences](https://global.oup.com/academic/product/oxford-companion-to-emotion-and-the-affective-sciences-9780198569633?cc=us\&lang=en&)
+* [Handbook of Affective Sciences](https://global.oup.com/academic/product/handbook-of-affective-sciences-9780195377002?cc=us\&lang=en&)
+* [Science of Emotional Intelligence: Knowns and Unknowns](https://global.oup.com/academic/product/science-of-emotional-intelligence-9780195181890?cc=us\&lang=en&)
+
+### Video-games
+
+* [Emotion in Games: Theory and Praxis](https://www.springer.com/gp/book/9783319413143)
+* [Heidi McDonald. Digital Love: Romance and Sexuality in Games](https://www.routledge.com/Digital-Love-Romance-and-Sexuality-in-Games-1st-Edition/McDonald/p/book/9781482237986)
+
+# Open-Source Projects
+
+* [face\_classification](https://github.com/oarriaga/face_classification) ⭐ 5,734 | 🐛 54 | 🌐 Python | 📅 2024-03-08, Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
+* [Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer) ⭐ 1,407 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2023-02-07, The neural network model is capable of detecting eight different male/female emotions from audio speeches. (Deep Learning, Python)
+* [emotion-recognition-neural-networks](https://github.com/isseu/emotion-recognition-neural-networks) ⭐ 846 | 🐛 42 | 🌐 Python | 📅 2022-11-22, Emotion recognition using DNN with tensorflow
+* [Emotion](https://github.com/petercunha/Emotion) ⭐ 479 | 🐛 15 | 🌐 Python | 📅 2021-12-30, Recognizes human faces and their corresponding emotions from a video or webcam feed. Powered by OpenCV and Deep Learning.
+* [Voice-Emotion-Detector](https://github.com/crhung/Voice-Emotion-Detector) ⭐ 108 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2018-03-21, Voice Emotion Detector that detects emotion from audio speech using one dimensional CNNs (convolutional neural networks) using keras and tensorflow on Jupyter Notebook.
+* [Emotion-Recognition-RNN](https://github.com/saebrahimi/Emotion-Recognition-RNN) ⭐ 86 | 🐛 4 | 🌐 Python | 📅 2017-01-07, Recurrent Neural Networks for Emotion Recognition in Video
+* [DeepSentiment](https://github.com/vyassu/DeepSentiment) ⭐ 78 | 🐛 11 | 🌐 Python | 📅 2017-02-21, Speech Emotion Recognition using FFT and SVM
+* [emotion-conv-net](https://github.com/GautamShine/emotion-conv-net) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2016-10-31, Real-time emotion recognition using convolutional neural nets.
+* [EmotionRecognition](https://github.com/leonardean/EmotionRecognition) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2014-02-10, Real time emotion recogniser using web camera based on FACS.
+* [Emotion\_Voice\_Recognition\_Chainer](https://github.com/SnowMasaya/Emotion_Voice_Recognition_Chainer-) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2016-01-26
+* [Emotion\_Recognition](https://github.com/miguelki/Emotion_Recognition) ⭐ 14 | 🐛 0 | 🌐 Perl | 📅 2013-01-12
+* [EmotionNet](https://github.com/co60ca/EmotionNet) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2019-04-11, Convolutional Neural Network for Emotion Recognition
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
