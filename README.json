@@ -15,7 +15,7 @@
             "last_commit": "2024-03-08T20:04:21Z",
             "owner": "oarriaga",
             "repo": "face_classification",
-            "stars": 5734
+            "stars": 5735
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-02-07T16:19:15Z",
             "owner": "MiteshPuthran",
             "repo": "Speech-Emotion-Analyzer",
-            "stars": 1407
+            "stars": 1408
           }
         },
         {
@@ -188,7 +188,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:13:38.203Z",
+    "last_updated": "2026-08-19T21:42:07.976Z",
     "original_repository": "AmrMKayid/awesome-affective-computing",
     "original_repository_id": 139225777,
     "original_repository_sha": "ba4e95c31c01669b5628450cfaa986366a92c6a9",
