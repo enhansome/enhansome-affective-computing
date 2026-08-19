@@ -1,14 +1,196 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Related"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "face_classification",
+          "description": ", Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81460066,
+            "language": "Python",
+            "last_commit": "2024-03-08T20:04:21Z",
+            "owner": "oarriaga",
+            "repo": "face_classification",
+            "stars": 5734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Speech-Emotion-Analyzer",
+          "description": ", The neural network model is capable of detecting eight different male/female emotions from audio speeches. (Deep Learning, Python)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114703482,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-07T16:19:15Z",
+            "owner": "MiteshPuthran",
+            "repo": "Speech-Emotion-Analyzer",
+            "stars": 1407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emotion-recognition-neural-networks",
+          "description": ", Emotion recognition using DNN with tensorflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53041939,
+            "language": "Python",
+            "last_commit": "2022-11-22T02:28:59Z",
+            "owner": "isseu",
+            "repo": "emotion-recognition-neural-networks",
+            "stars": 846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emotion",
+          "description": ", Recognizes human faces and their corresponding emotions from a video or webcam feed. Powered by OpenCV and Deep Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110563523,
+            "language": "Python",
+            "last_commit": "2021-12-30T19:36:09Z",
+            "owner": "petercunha",
+            "repo": "Emotion",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voice-Emotion-Detector",
+          "description": ", Voice Emotion Detector that detects emotion from audio speech using one dimensional CNNs (convolutional neural networks) using keras and tensorflow on Jupyter Notebook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119886845,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-03-21T02:57:22Z",
+            "owner": "crhung",
+            "repo": "Voice-Emotion-Detector",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emotion-Recognition-RNN",
+          "description": ", Recurrent Neural Networks for Emotion Recognition in Video",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43736592,
+            "language": "Python",
+            "last_commit": "2017-01-07T20:09:36Z",
+            "owner": "saebrahimi",
+            "repo": "Emotion-Recognition-RNN",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSentiment",
+          "description": ", Speech Emotion Recognition using FFT and SVM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51558817,
+            "language": "Python",
+            "last_commit": "2017-02-21T12:20:21Z",
+            "owner": "vyassu",
+            "repo": "DeepSentiment",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emotion-conv-net",
+          "description": ", Real-time emotion recognition using convolutional neural nets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50719109,
+            "language": "Python",
+            "last_commit": "2016-10-31T03:32:56Z",
+            "owner": "GautamShine",
+            "repo": "emotion-conv-net",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmotionRecognition",
+          "description": ", Real time emotion recogniser using web camera based on FACS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16694552,
+            "language": "C++",
+            "last_commit": "2014-02-10T12:52:26Z",
+            "owner": "leonardean",
+            "repo": "EmotionRecognition",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emotion_Voice_Recognition_Chainer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50391565,
+            "language": "Python",
+            "last_commit": "2016-01-26T00:43:36Z",
+            "owner": "SnowMasaya",
+            "repo": "Emotion_Voice_Recognition_Chainer-",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emotion_Recognition",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5979746,
+            "language": "Perl",
+            "last_commit": "2013-01-12T21:49:19Z",
+            "owner": "miguelki",
+            "repo": "Emotion_Recognition",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmotionNet",
+          "description": ", Convolutional Neural Network for Emotion Recognition",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57939019,
+            "language": "Shell",
+            "last_commit": "2019-04-11T22:30:33Z",
+            "owner": "co60ca",
+            "repo": "EmotionNet",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Open-Source Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:38:47.918Z",
+    "last_updated": "2026-08-19T12:13:38.203Z",
     "original_repository": "AmrMKayid/awesome-affective-computing",
+    "original_repository_id": 139225777,
     "original_repository_sha": "ba4e95c31c01669b5628450cfaa986366a92c6a9",
     "enhanced_repository": "enhansome/enhansome-affective-computing",
     "enhanced_repository_description": null,
