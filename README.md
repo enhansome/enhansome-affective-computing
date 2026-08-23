@@ -120,9 +120,9 @@
 # Open-Source Projects
 
 * [face\_classification](https://github.com/oarriaga/face_classification) ⭐ 5,736 | 🐛 54 | 🌐 Python | 📅 2024-03-08, Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
-* [Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer) ⭐ 1,408 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2023-02-07, The neural network model is capable of detecting eight different male/female emotions from audio speeches. (Deep Learning, Python)
+* [Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer) ⭐ 1,407 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2023-02-07, The neural network model is capable of detecting eight different male/female emotions from audio speeches. (Deep Learning, Python)
 * [emotion-recognition-neural-networks](https://github.com/isseu/emotion-recognition-neural-networks) ⭐ 846 | 🐛 42 | 🌐 Python | 📅 2022-11-22, Emotion recognition using DNN with tensorflow
-* [Emotion](https://github.com/petercunha/Emotion) ⭐ 479 | 🐛 15 | 🌐 Python | 📅 2021-12-30, Recognizes human faces and their corresponding emotions from a video or webcam feed. Powered by OpenCV and Deep Learning.
+* [Emotion](https://github.com/petercunha/Emotion) ⭐ 478 | 🐛 15 | 🌐 Python | 📅 2021-12-30, Recognizes human faces and their corresponding emotions from a video or webcam feed. Powered by OpenCV and Deep Learning.
 * [Voice-Emotion-Detector](https://github.com/crhung/Voice-Emotion-Detector) ⭐ 108 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2018-03-21, Voice Emotion Detector that detects emotion from audio speech using one dimensional CNNs (convolutional neural networks) using keras and tensorflow on Jupyter Notebook.
 * [Emotion-Recognition-RNN](https://github.com/saebrahimi/Emotion-Recognition-RNN) ⭐ 86 | 🐛 4 | 🌐 Python | 📅 2017-01-07, Recurrent Neural Networks for Emotion Recognition in Video
 * [DeepSentiment](https://github.com/vyassu/DeepSentiment) ⭐ 78 | 🐛 11 | 🌐 Python | 📅 2017-02-21, Speech Emotion Recognition using FFT and SVM
@@ -134,4 +134,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
