@@ -16,7 +16,8 @@
             "owner": "oarriaga",
             "repo": "face_classification",
             "stars": 5735
-          }
+          },
+          "first_seen": "2026-08-28T05:25:15.862Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "MiteshPuthran",
             "repo": "Speech-Emotion-Analyzer",
             "stars": 1408
-          }
+          },
+          "first_seen": "2026-08-28T05:25:15.862Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "isseu",
             "repo": "emotion-recognition-neural-networks",
             "stars": 846
-          }
+          },
+          "first_seen": "2026-08-28T05:25:15.862Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "petercunha",
             "repo": "Emotion",
             "stars": 478
-          }
+          },
+          "first_seen": "2026-08-28T05:25:15.862Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "crhung",
             "repo": "Voice-Emotion-Detector",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T05:25:15.862Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "saebrahimi",
             "repo": "Emotion-Recognition-RNN",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T05:25:15.862Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "vyassu",
             "repo": "DeepSentiment",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T05:25:15.862Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "GautamShine",
             "repo": "emotion-conv-net",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T05:25:15.862Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "leonardean",
             "repo": "EmotionRecognition",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T05:25:15.862Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "SnowMasaya",
             "repo": "Emotion_Voice_Recognition_Chainer-",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T05:25:15.862Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "miguelki",
             "repo": "Emotion_Recognition",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T05:25:15.862Z"
         },
         {
           "node_type": "item",
@@ -181,14 +192,15 @@
             "owner": "co60ca",
             "repo": "EmotionNet",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T05:25:15.862Z"
         }
       ],
       "title": "Open-Source Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:23.158Z",
+    "last_updated": "2026-08-28T05:25:15.862Z",
     "original_repository_info": {
       "archived": false,
       "id": 139225777,
@@ -196,7 +208,7 @@
       "last_commit": "2019-11-15T12:21:40Z",
       "owner": "AmrMKayid",
       "repo": "awesome-affective-computing",
-      "stars": 193
+      "stars": 194
     },
     "original_repository_sha": "ba4e95c31c01669b5628450cfaa986366a92c6a9",
     "enhanced_repository": "enhansome/enhansome-affective-computing",
