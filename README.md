@@ -119,7 +119,7 @@
 
 # Open-Source Projects
 
-* [face\_classification](https://github.com/oarriaga/face_classification) ⭐ 5,735 | 🐛 54 | 🌐 Python | 📅 2024-03-08, Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
+* [face\_classification](https://github.com/oarriaga/face_classification) ⭐ 5,734 | 🐛 54 | 🌐 Python | 📅 2024-03-08, Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
 * [Speech-Emotion-Analyzer](https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer) ⭐ 1,409 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2023-02-07, The neural network model is capable of detecting eight different male/female emotions from audio speeches. (Deep Learning, Python)
 * [emotion-recognition-neural-networks](https://github.com/isseu/emotion-recognition-neural-networks) ⭐ 846 | 🐛 42 | 🌐 Python | 📅 2022-11-22, Emotion recognition using DNN with tensorflow
 * [Emotion](https://github.com/petercunha/Emotion) ⭐ 478 | 🐛 15 | 🌐 Python | 📅 2021-12-30, Recognizes human faces and their corresponding emotions from a video or webcam feed. Powered by OpenCV and Deep Learning.
@@ -134,4 +134,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
