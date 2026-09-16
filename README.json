@@ -19,7 +19,7 @@
             "open_issues": 54,
             "owner": "oarriaga",
             "repo": "face_classification",
-            "stars": 5735,
+            "stars": 5734,
             "topics": []
           },
           "first_seen": "2026-08-28T05:25:15.862Z"
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:31:57.959Z",
+    "last_updated": "2026-09-16T23:39:22.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources",
@@ -300,7 +300,7 @@
       "open_issues": 1,
       "owner": "AmrMKayid",
       "repo": "awesome-affective-computing",
-      "stars": 195,
+      "stars": 196,
       "topics": [
         "affective-computing",
         "artificial-intelligence",
