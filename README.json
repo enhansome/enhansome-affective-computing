@@ -19,7 +19,7 @@
             "open_issues": 54,
             "owner": "oarriaga",
             "repo": "face_classification",
-            "stars": 5735,
+            "stars": 5734,
             "topics": []
           },
           "first_seen": "2026-08-28T05:25:15.862Z"
@@ -104,7 +104,7 @@
             "open_issues": 15,
             "owner": "petercunha",
             "repo": "Emotion",
-            "stars": 477,
+            "stars": 476,
             "topics": [
               "deep-learning",
               "emotion-recognition",
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:36:24.110Z",
+    "last_updated": "2026-09-23T23:42:52.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources",
