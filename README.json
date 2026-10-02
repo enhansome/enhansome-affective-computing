@@ -40,7 +40,7 @@
             "open_issues": 23,
             "owner": "MiteshPuthran",
             "repo": "Speech-Emotion-Analyzer",
-            "stars": 1409,
+            "stars": 1411,
             "topics": [
               "audio-files",
               "data-science",
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:33:52.872Z",
+    "last_updated": "2026-10-02T00:48:16.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources",
