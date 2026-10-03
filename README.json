@@ -223,7 +223,7 @@
         {
           "node_type": "item",
           "title": "Emotion_Voice_Recognition_Chainer",
-          "description": null,
+          "description": "SnowMasaya/Emotion_Voice_Recognition_Chainer-",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -244,7 +244,7 @@
         {
           "node_type": "item",
           "title": "Emotion_Recognition",
-          "description": null,
+          "description": "miguelki/Emotion_Recognition",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:31:03.831Z",
+    "last_updated": "2026-10-03T04:22:06.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources",
