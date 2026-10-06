@@ -77,7 +77,7 @@
             "open_issues": 42,
             "owner": "isseu",
             "repo": "emotion-recognition-neural-networks",
-            "stars": 845,
+            "stars": 846,
             "topics": [
               "convolutional-neural-networks",
               "deep-neural-networks",
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:45:52.766Z",
+    "last_updated": "2026-10-06T10:19:35.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources",
