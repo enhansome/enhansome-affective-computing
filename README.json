@@ -104,7 +104,7 @@
             "open_issues": 15,
             "owner": "petercunha",
             "repo": "Emotion",
-            "stars": 475,
+            "stars": 474,
             "topics": [
               "deep-learning",
               "emotion-recognition",
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:01:08.027Z",
+    "last_updated": "2026-10-09T01:13:55.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources",
