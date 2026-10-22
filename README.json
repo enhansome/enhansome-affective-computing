@@ -131,7 +131,7 @@
             "open_issues": 4,
             "owner": "crhung",
             "repo": "Voice-Emotion-Detector",
-            "stars": 108,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-28T05:25:15.862Z"
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:00:48.435Z",
+    "last_updated": "2026-10-22T23:59:17.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources",
