@@ -19,7 +19,7 @@
             "open_issues": 54,
             "owner": "oarriaga",
             "repo": "face_classification",
-            "stars": 5738,
+            "stars": 5739,
             "topics": []
           },
           "first_seen": "2026-08-28T05:25:15.862Z"
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T23:17:10.168Z",
+    "last_updated": "2026-10-27T00:26:47.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources",
