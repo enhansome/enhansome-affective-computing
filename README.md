@@ -127,11 +127,11 @@
 * [Emotion-Recognition-RNN](https://github.com/saebrahimi/Emotion-Recognition-RNN) ⭐ 86 | 🐛 4 | 🌐 Python | 📅 2017-01-07, Recurrent Neural Networks for Emotion Recognition in Video
 * [DeepSentiment](https://github.com/vyassu/DeepSentiment) ⭐ 78 | 🐛 11 | 🌐 Python | 📅 2017-02-21, Speech Emotion Recognition using FFT and SVM
 * [emotion-conv-net](https://github.com/GautamShine/emotion-conv-net) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2016-10-31, Real-time emotion recognition using convolutional neural nets.
-* [EmotionRecognition](https://github.com/leonardean/EmotionRecognition) ⭐ 49 | 🐛 0 | 🌐 C++ | 📅 2014-02-10, Real time emotion recogniser using web camera based on FACS.
+* [EmotionRecognition](https://github.com/leonardean/EmotionRecognition) ⭐ 50 | 🐛 0 | 🌐 C++ | 📅 2014-02-10, Real time emotion recogniser using web camera based on FACS.
 * [Emotion\_Voice\_Recognition\_Chainer](https://github.com/SnowMasaya/Emotion_Voice_Recognition_Chainer-) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2016-01-26
 * [Emotion\_Recognition](https://github.com/miguelki/Emotion_Recognition) ⭐ 14 | 🐛 0 | 🌐 Perl | 📅 2013-01-12
 * [EmotionNet](https://github.com/co60ca/EmotionNet) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2019-04-11, Convolutional Neural Network for Emotion Recognition
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
