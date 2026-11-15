@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:27:16.375Z",
+    "last_updated": "2026-11-15T01:03:50.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources",
@@ -300,7 +300,7 @@
       "open_issues": 1,
       "owner": "AmrMKayid",
       "repo": "awesome-affective-computing",
-      "stars": 197,
+      "stars": 196,
       "topics": [
         "affective-computing",
         "artificial-intelligence",
