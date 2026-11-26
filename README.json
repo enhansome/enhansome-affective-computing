@@ -19,7 +19,7 @@
             "open_issues": 53,
             "owner": "oarriaga",
             "repo": "face_classification",
-            "stars": 5734,
+            "stars": 5733,
             "topics": []
           },
           "first_seen": "2026-08-28T05:25:15.862Z"
@@ -77,7 +77,7 @@
             "open_issues": 42,
             "owner": "isseu",
             "repo": "emotion-recognition-neural-networks",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "convolutional-neural-networks",
               "deep-neural-networks",
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:12:33.129Z",
+    "last_updated": "2026-11-26T03:34:33.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome affective computing 🤖❤️ papers, software, open-source projects, and resources",
